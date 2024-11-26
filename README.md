@@ -69,4 +69,4 @@ Visit our [Wiki](../../wiki) for detailed documentation.
 [![Star History Chart](https://api.star-history.com/svg?repos=SecurePlugins/Secure-Bookings&type=Date)](https://star-history.com/#SecurePlugins/Secure-Bookings&Date)
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Secure Plugins
